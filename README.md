@@ -10,7 +10,9 @@
 h1{
    color:red;
 }
-
+body{
+   text-align:center;
+} 
 
 
 
